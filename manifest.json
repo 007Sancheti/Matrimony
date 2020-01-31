@@ -1,0 +1,7 @@
+{
+  "name": "matrimony-app",
+  "short_name": "matrimony-app",
+  "description": "there is always a wedding season",
+  "start_url": "/",
+  "display": "standalone"
+}
